@@ -1,21 +1,14 @@
 <div align="center">
   <a href="https://www.reactylon.com/docs">
-    <img
-      height="200"
-      width="200"
-      alt="Reactylon logo"
-      src="https://github.com/simonedevit/reactylon/blob/main/assets/logo.svg?raw=true"
-    />
+     <img width="960" alt="reactylon-hero" src="https://github.com/user-attachments/assets/5f205b1c-44b4-4d0e-9bb2-d1f08e27c1ea" />
   </a>
-
-  <h1>Reactylon</h1>
-
+<br/><br/>
   <p>
     <strong>XR-first React ecosystem built on Babylon.js for production-ready WebXR and 3D experiences.</strong>
   </p>
 
   <p>
-    Build serious 3D & XR products with React, not just tech demos.
+    Build real 3D & XR products with React, not just tech demos.
   </p>
 </div>
 
