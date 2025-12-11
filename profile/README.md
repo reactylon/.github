@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.reactylon.com/docs">
-     <img width="960" alt="reactylon-hero" src="https://github.com/user-attachments/assets/5f205b1c-44b4-4d0e-9bb2-d1f08e27c1ea" />
+     <img width="960" alt="reactylon-hero" src="https://github.com/user-attachments/assets/1d3484d2-c180-41e3-8737-10c366ad32f8" />
   </a>
 <br/><br/>
   <p>
