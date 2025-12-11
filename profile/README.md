@@ -57,8 +57,25 @@ The **compiler sidekick**.
 
 The **fast lane** into Reactylon.
 
-- Bootstraps a **React 19** project with Reactylon prewired  
+- Bootstraps a **React 19** project with Webpack and Reactylon prewired  
 - Configures Babylon.js engine, physics, and a starter scene  
 - Gives you a runnable project in one command: `npx create-reactylon-app my-app`
 
 > You run one command. It scaffolds a Reactylon boilerplate app for you.
+
+---
+
+### 4. Starter templates
+
+Clone-and-go starter templates for popular React stacks:
+
+- **Vite** - [`reactylon-vite-starter`](https://github.com/simonedevit/reactylon-vite-starter)  
+  Minimal SPA setup with Vite + React + TypeScript, ideal for iterating quickly on 3D/XR scenes.
+
+- **Next.js (App Router)** - [`reactylon-nextjs-starter`](https://github.com/simonedevit/reactylon-nextjs-starter)  
+  Production-ready shell with routing, SSR, and SEO, while keeping Reactylon logic in client components.
+
+- **Astro** - [`reactylon-astro-starter`](https://github.com/simonedevit/reactylon-astro-starter)  
+  Integration starter that shows how to mount a Reactylon React app inside an Astro project via `client:only="react"`.
+
+> Pick the stack you already use, clone a starter, and focus on your scenes instead of wiring configs.
